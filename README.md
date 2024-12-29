@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Welcome to My GitHub Profile
 
 ## About Me
-Hello! I'm **Mustang N' Sally** (a.k.a. Mustinky on Discord), a dedicated **game hacker** and **security researcher** specializing in reverse engineering and vulnerability analysis. My work revolves around exploring, understanding, and uncovering security flaws in games to enhance and challenge existing systems.
+Hello! I'm **Mustang N' Sally** (a.k.a. Mustinky on Discord), a passionate **game hacker** and **security enthusiast**. I focus on reverse engineering and vulnerability analysis, with a particular interest in exploring and uncovering security flaws in games. This is a hobby for me, and I’m constantly learning and improving my skills every day. I enjoy the challenge of diving into complex systems and figuring out how they work!
 
 ---
 
