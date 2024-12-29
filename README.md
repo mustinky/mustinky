@@ -1,43 +1,39 @@
-# 👾 Welcome to My GitHub Profile!
+# 🕵️‍♂️ Welcome to My GitHub Profile
 
-Hi there! I'm [Your Name/Username] 👨‍💻, a game security researcher and vulnerability explorer. I specialize in identifying, analyzing, and exploiting game vulnerabilities to enhance security systems.
+## About Me
+Hello! I'm **Mustang N' Sally** (a.k.a. Mustinky on Discord), a dedicated **game hacker** and **security researcher** specializing in reverse engineering and vulnerability analysis. My work revolves around exploring, understanding, and uncovering security flaws in games to enhance and challenge existing systems.
 
 ---
 
-## 🛠️ Skills and Tools
+## 🛠️ Expertise & Tools
 
-**Programming Languages:**
+### Programming Languages:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
 
-**Reverse Engineering Tools:**
+### Reverse Engineering Tools:
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-2C2C2C?style=for-the-badge&logo=data:image/svg+xml;base64,[base64_encoded_logo_here]&logoColor=white)
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-3776AB?style=for-the-badge&logo=cheatengine&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF4500?style=for-the-badge&logo=oracle&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-4A90E2?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-4A90E2?style=for-the-badge)
 
 ---
 
-## 📚 Featured Projects
-
-- 🔥 **Game Exploitation Tools**: Scripts and tools to analyze game mechanics.
-- 🔐 **Secure Systems**: Responsible disclosure of vulnerabilities to developers.
-- 📜 **Educational Resources**: Tutorials on reverse engineering and hacking.
-
----
-
-## 📈 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+## 📂 Featured Projects
+- **🔒 Vulnerability Exploits**: Advanced scripts and techniques for game manipulation.
+- **📜 Tutorials**: Educational content on reverse engineering, assembly, and hacking.
+- **🤝 Collaboration**: Responsible disclosure with developers to secure systems.
 
 ---
 
-## 🌟 Connect With Me
+## 📊 GitHub Activity & Stats
 
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
-- **Email**: youremail@example.com
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
 
 ---
+
+## 🌐 Let's Connect
+
+- **Discord**: Mustinky (Mustang N' Sally)
