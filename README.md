@@ -9,11 +9,11 @@ Hello! I'm **Mustang N' Sally** (a.k.a. Mustinky on Discord), a dedicated **game
 
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
 
 ### Reverse Engineering Tools:
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-2C2C2C?style=for-the-badge&logo=data:image/svg+xml;base64,[base64_encoded_logo_here]&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-3776AB?style=for-the-badge&logo=cheatengine&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-4A90E2?style=for-the-badge)
